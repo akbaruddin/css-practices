@@ -1,4 +1,4 @@
-# css tools
+# css practices
 
 ##### Box sizing defaults to border-box
 
