@@ -1,5 +1,15 @@
 # css tools
 
+##### Box sizing defaults to border-box
+
+```css
+*,
+::before,
+::after {
+  box-sizing: border-box;
+}
+```
+
 ##### Navigation
 
 ```css
